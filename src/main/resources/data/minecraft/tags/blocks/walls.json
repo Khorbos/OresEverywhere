@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "oreseverywhere:copper_wall",
+    "oreseverywhere:iron_wall"
+  ]
+}

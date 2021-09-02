@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "oreseverywhere:block/copper_block",
+    "top": "oreseverywhere:block/copper_block",
+    "side": "oreseverywhere:block/copper_block"
+  }
+}

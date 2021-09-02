@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "oreseverywhere:block/copper_block"
+  }
+}

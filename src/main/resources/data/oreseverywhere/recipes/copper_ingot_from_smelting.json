@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "oreseverywhere:raw_copper"
+  },
+  "result": "oreseverywhere:copper_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

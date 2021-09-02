@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "oreseverywhere:block/copper_slab" },
+    "type=top": { "model": "oreseverywhere:block/copper_slab_top" },
+    "type=double": { "model": "oreseverywhere:block/copper_block" }
+  }
+}

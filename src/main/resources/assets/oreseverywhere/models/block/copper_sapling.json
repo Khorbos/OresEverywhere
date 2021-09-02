@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "oreseverywhere:block/copper_sapling"
+  }
+}

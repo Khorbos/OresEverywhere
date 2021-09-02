@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "oreseverywhere:block/iron_grass"
+      },
+      {
+        "model": "oreseverywhere:block/iron_grass",
+        "y": 90
+      },
+      {
+        "model": "oreseverywhere:block/iron_grass",
+        "y": 180
+      },
+      {
+        "model": "oreseverywhere:block/iron_grass",
+        "y": 270
+      }
+    ]
+  }
+}

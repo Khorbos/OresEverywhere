@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+modId="oreseverywhere"
+version="${file.jarVersion}"
+displayName="oreseverywhere"
+#updateJSONURL="http://myurl.me/"
+#displayURL="http://example.com/"
+#logoFile="oreseverywhere.png"
+credits="Khorbos"
+authors="Khorbos"
+description='''
+
+'''
+
+[[dependencies.oreseverywhere]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.oreseverywhere]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

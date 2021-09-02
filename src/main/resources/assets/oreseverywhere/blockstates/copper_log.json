@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": {"model": "oreseverywhere:block/copper_log"},
+    "axis=z": {"model": "oreseverywhere:block/copper_log", "x": 90},
+    "axis=x": {"model": "oreseverywhere:block/copper_log", "x": 90, "y": 90}
+  }
+}

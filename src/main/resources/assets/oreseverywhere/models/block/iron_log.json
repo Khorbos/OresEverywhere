@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "side": "oreseverywhere:block/iron_log",
+    "end": "oreseverywhere:block/iron_log_top"
+  }
+}

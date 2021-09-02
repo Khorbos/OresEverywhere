@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "oreseverywhere:copper_grass",
+    "oreseverywhere:iron_grass",
+    "oreseverywhere:coal_dust"
+  ]
+}

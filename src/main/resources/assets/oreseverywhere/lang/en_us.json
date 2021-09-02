@@ -1,0 +1,32 @@
+{
+  "itemGroup.oreseverywheremod" : "OresEverywhere Mod",
+
+  "item.oreseverywhere.copper_ingot": "Copper Ingot",
+  "item.oreseverywhere.copper_nugget": "Copper Nugget",
+  "item.oreseverywhere.raw_copper": "Raw Copper",
+  "item.oreseverywhere.raw_iron": "Raw Iron",
+
+  "block.oreseverywhere.copper_block" : "Block Of Copper",
+  "block.oreseverywhere.copper_ore" : "Copper Ore",
+
+  "block.oreseverywhere.copper_stairs" : "Copper Stairs",
+  "block.oreseverywhere.copper_slab" : "Copper Slab",
+  "block.oreseverywhere.copper_fence" : "Copper Fence",
+  "block.oreseverywhere.copper_wall" : "Copper Wall",
+  "block.oreseverywhere.copper_button" : "Copper Button",
+  "block.oreseverywhere.copper_pressure_plate" : "Copper Pressure Plate",
+  "block.oreseverywhere.copper_log" : "Copper Log",
+  "block.oreseverywhere.copper_leaves" : "Copper Leaves",
+  "block.oreseverywhere.copper_sapling" : "Copper Sapling",
+  "block.oreseverywhere.copper_grass" : "Copper Grass",
+
+  "block.oreseverywhere.iron_stairs" : "Iron Stairs",
+  "block.oreseverywhere.iron_slab" : "Iron Slab",
+  "block.oreseverywhere.iron_wall" : "Iron Wall",
+  "block.oreseverywhere.iron_button" : "Iron Button",
+  "block.oreseverywhere.iron_log" : "Iron Log",
+  "block.oreseverywhere.iron_leaves" : "Iron Leaves",
+  "block.oreseverywhere.iron_sapling" : "Iron Sapling",
+  "block.oreseverywhere.iron_grass" : "Iron Grass",
+  "block.oreseverywhere.iron_rock" : "Iron Rock"
+}

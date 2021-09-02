@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "oreseverywhere:block/copper_grass"
+      },
+      {
+        "model": "oreseverywhere:block/copper_grass",
+        "y": 90
+      },
+      {
+        "model": "oreseverywhere:block/copper_grass",
+        "y": 180
+      },
+      {
+        "model": "oreseverywhere:block/copper_grass",
+        "y": 270
+      }
+    ]
+  }
+}
