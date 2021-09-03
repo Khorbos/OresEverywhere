@@ -23,7 +23,7 @@ public class CoalBiome extends Biome {
         this(new Builder()
                 .precipitation(RainType.NONE)
                 .depth(0.125F)
-                .scale(0.05F)
+                .scale(0.01F)
                 .temperature(2.4F)
                 .downfall(0.4F)
                 .waterColor(1644825)

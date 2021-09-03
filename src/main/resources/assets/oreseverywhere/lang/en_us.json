@@ -3,8 +3,9 @@
 
   "item.oreseverywhere.copper_ingot": "Copper Ingot",
   "item.oreseverywhere.copper_nugget": "Copper Nugget",
-  "item.oreseverywhere.raw_copper": "Raw Copper",
-  "item.oreseverywhere.raw_iron": "Raw Iron",
+  "item.oreseverywhere.copper_geode": "Copper Geode",
+  "item.oreseverywhere.iron_geode": "Iron Geode",
+  "item.oreseverywhere.gold_geode": "Gold Geode",
 
   "block.oreseverywhere.copper_block" : "Block Of Copper",
   "block.oreseverywhere.copper_ore" : "Copper Ore",

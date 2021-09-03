@@ -31,13 +31,16 @@ public class Registries {
     public static final DeferredRegister<ModDimension> MOD_DIMENSIONS = DeferredRegister.create(ForgeRegistries.MOD_DIMENSIONS, OresEverywhere.ID);
 
     // Items
-    public static final RegistryObject<Item> RAW_COPPER = ITEMS.register("raw_copper", () -> new Item(ItemProperties.BASIC_PROPERTIES));
-    public static final RegistryObject<Item> RAW_IRON = ITEMS.register("raw_iron", () -> new Item(ItemProperties.BASIC_PROPERTIES));
+    public static final RegistryObject<Item> COPPER_GEODE = ITEMS.register("copper_geode", () -> new Item(ItemProperties.BASIC_PROPERTIES));
+    public static final RegistryObject<Item> IRON_GEODE = ITEMS.register("iron_geode", () -> new Item(ItemProperties.BASIC_PROPERTIES));
     public static final RegistryObject<Item> COPPER_INGOT = ITEMS.register("copper_ingot", () -> new Item(ItemProperties.BASIC_PROPERTIES));
     public static final RegistryObject<Item> COPPER_NUGGET = ITEMS.register("copper_nugget", () -> new Item(ItemProperties.BASIC_PROPERTIES));
+    public static final RegistryObject<Item> GOLD_GEODE = ITEMS.register("gold_geode", () -> new Item(ItemProperties.BASIC_PROPERTIES));
 
     // Blocks
     public static final RegistryObject<CopperOreBlock> COPPER_ORE = BLOCKS.register("copper_ore", () -> new CopperOreBlock());
+    public static final RegistryObject<Block> CUPRUM_STONE = BLOCKS.register("cuprum_stone", () -> new Block(BlockProperties.STONE_PROPERTIES));
+    public static final RegistryObject<CopperOreBlock> CUPRUM_ORE = BLOCKS.register("cuprum_ore", () -> new CopperOreBlock());
     public static final RegistryObject<CopperBlock> COPPER_BLOCK = BLOCKS.register("copper_block", () -> new CopperBlock());
     public static final RegistryObject<CopperGrassBlock> COPPER_GRASS = BLOCKS.register("copper_grass", () -> new CopperGrassBlock());
     public static final RegistryObject<Block> COPPER_ROCK = BLOCKS.register("copper_rock", () -> new OreRockBlock());

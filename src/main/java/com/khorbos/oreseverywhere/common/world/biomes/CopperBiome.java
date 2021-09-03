@@ -2,9 +2,7 @@ package com.khorbos.oreseverywhere.common.world.biomes;
 
 import com.khorbos.oreseverywhere.common.world.features.CopperTree;
 import com.khorbos.oreseverywhere.common.world.gen.OreBiomeSurfaceBuilder;
-import com.khorbos.oreseverywhere.common.world.gen.OreGenerator;
 import com.khorbos.oreseverywhere.core.registries.Registries;
-import net.minecraft.block.Blocks;
 import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.EntityType;
 import net.minecraft.util.registry.Registry;
@@ -38,10 +36,10 @@ public class CopperBiome extends Biome {
                 .surfaceBuilder(
                         new ConfiguredSurfaceBuilder<SurfaceBuilderConfig>(
                                 register("copper_surface",
-                                        new OreBiomeSurfaceBuilder(SurfaceBuilderConfig::deserialize, Registries.COPPER_GRASS.get(), Registries.COPPER_ORE.get(), Registries.COPPER_BLOCK.get())),
-                                new SurfaceBuilderConfig(Blocks.GRASS_BLOCK.getDefaultState(),
-                                        Blocks.STONE.getDefaultState(),
-                                        Blocks.STONE.getDefaultState())))
+                                        new OreBiomeSurfaceBuilder(SurfaceBuilderConfig::deserialize, Registries.COPPER_GRASS.get(), Registries.CUPRUM_ORE.get(), Registries.CUPRUM_STONE.get())),
+                                new SurfaceBuilderConfig(Registries.COPPER_GRASS.get().getDefaultState(),
+                                        Registries.CUPRUM_STONE.get().getDefaultState(),
+                                        Registries.CUPRUM_STONE.get().getDefaultState())))
                 .category(Category.PLAINS).downfall(0.5f).depth(0.12f).parent(null)
         );
     }

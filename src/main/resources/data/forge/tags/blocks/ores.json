@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "oreseverywhere:copper_ore"
+    "oreseverywhere:copper_ore",
+    "oreseverywhere:cuprum_ore"
   ]
 }

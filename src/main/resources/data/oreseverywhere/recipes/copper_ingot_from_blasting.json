@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "item": "oreseverywhere:raw_copper"
+    "item": "oreseverywhere:copper_geode"
   },
   "result": "oreseverywhere:copper_ingot",
   "experience": 1.0,
